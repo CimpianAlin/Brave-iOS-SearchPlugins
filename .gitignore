@@ -1,0 +1,11 @@
+#OS junk files
+*.DS_Store
+
+#Compiled Python code
+*.pyc
+
+#Temporary folder
+tmp/
+
+#Log
+output.log
